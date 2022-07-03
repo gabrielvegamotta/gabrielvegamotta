@@ -5,7 +5,7 @@ Hello! I'm Gabriel Vega, an enthusiast for technology and with a insatiable curi
 
 
 
-<img align="right" alt="GV-Logo" height="230" style="border-radius:10px;" src="https://github.com/GabrielVega-Eng/GabrielVega-Eng/blob/main/Gabriel%20Vega%20Eng.%20Logo%20and%20Name%20B%26W.png">
+<img align="right" alt="GV-Logo" height="230" style="border-radius:10px;" src="https://github.com/GabrielVega-Eng/GabrielVega-Eng/blob/main/Gabriel%20Vega%20Eng.%20Logo%20and%20Name%20G%20T.png">
 
 ##
 
