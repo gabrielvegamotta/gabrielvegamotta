@@ -1,6 +1,11 @@
-### Vorfelan Rhinata Morie - The Desire for Knowledge Shapes a Man
+### Vorfelan Rhinata Morie - The Desire for Knowledge Shapes a Man  
 
 Hello! I'm Gabriel Vega, an enthusiast for technology and with a insatiable curiosity! With a wide range of capability on serveral areas of engineering such as electronics, mechanics and programming. Also love designing PCB's!
+
+
+
+
+<img align="right" alt="GV-Logo" height="230" style="border-radius:10px;" src="https://github.com/GabrielVega-Eng/GabrielVega-Eng/blob/main/Gabriel%20Vega%20Eng.%20Logo%20and%20Name%20B%26W.png">
 
 ##
 
@@ -12,10 +17,12 @@ Hello! I'm Gabriel Vega, an enthusiast for technology and with a insatiable curi
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I'm a writer, photographer and magician. You can check out some of [my work here!](https://gabrielvega.com.br/)
 
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="GV-CEmbedded" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg">
   <img align="center" alt="GV-Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  
 </div>
 
 ##
