@@ -1,14 +1,18 @@
-### Vorfelan Rhinata Morie - The Desire for Knowledge Shapes a Man  
+### Hello! I'm Gabriel Vega!
 
-Hello! I'm Gabriel Vega, an enthusiast for technology and with a insatiable curiosity! With a wide range of capability on serveral areas of engineering such as electronics, mechanics and programming. Also love designing PCB's!
-
-
-
+I am an enthusiast for technology and with a insatiable curiosity! I love designing PCB's and developing hardware projects to help as many people as possible!
 
 <img align="right" alt="GV-Logo" height="230" style="border-radius:10px;" src="https://github.com/GabrielVega-Eng/GabrielVega-Eng/blob/main/Gabriel%20Vega%20Eng.%20Logo%20and%20Name%20B%26W%20T.png">
 
-##
+Here's a list of some of my projects:
+- PCB Reflow - An Easy Way to Solder SMD Components
+- Arduino Converter - Use the old Arduino board with the new ATMega328PB
+- e.Njector - The Best Tool for Placing Solder Paste and Pick & Place Components
+- Carpe Diem - Slow Motion in Real Life
+- Ultimate PCB Ruler - A Compilation of Usefull Information on Eletronics and SMD Components in One Ruler
 
+##
+### Vorfelan Rhinata Morie - The Desire for Knowledge Shapes a Man
 - See my full page here (under construction), and my porfolio of projects (under construction).
 - 🔭 I’m currently working on PCB Reflow
 - 🌱 I’m currently learning Ladder
