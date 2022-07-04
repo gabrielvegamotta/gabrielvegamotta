@@ -4,15 +4,6 @@ I am an enthusiast for technology and with a insatiable curiosity! I love design
 
 <img align="right" alt="GV-Logo" height="230" style="border-radius:10px;" src="https://github.com/GabrielVega-Eng/GabrielVega-Eng/blob/main/Gabriel%20Vega%20Eng.%20Logo%20and%20Name%20B%26W%20T.png">
 
-Here's a list of some of my projects:
-- PCB Reflow - An Easy Way to Solder SMD Components
-- Arduino Converter - Use the old Arduino board with the new ATMega328PB
-- e.Njector - The Best Tool for Placing Solder Paste and Pick & Place Components
-- Carpe Diem - Slow Motion in Real Life
-- Ultimate PCB Ruler - A Compilation of Usefull Information on Eletronics and SMD Components in One Ruler
-
-##
-### Vorfelan Rhinata Morie - The Desire for Knowledge Shapes a Man
 - See my full page here (under construction), and my porfolio of projects (under construction).
 - 🔭 I’m currently working on PCB Reflow
 - 🌱 I’m currently learning Ladder
@@ -20,6 +11,17 @@ Here's a list of some of my projects:
 - 🤔 I’m looking for help with CAD and 3D Printing
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I'm a writer, photographer and magician. You can check out some of [my work here!](https://gabrielvega.com.br/)
+
+### Vorfelan Rhinata Morie - The Desire for Knowledge Shapes a Man
+
+##
+
+### Here's a list of some of my projects:
+- PCB Reflow - An easy way to solder SMD components
+- Arduino Converter - Use the old Arduino board with the new ATMega328PB
+- e.Njector - The best tool for placing solder paste and Pick & Place components
+- Ultimate PCB Ruler - A compilation of usefull information on eletronics and SMD components in one ruler
+- Carpe Diem - Slow motion in real life
 
 
 </div>
@@ -41,3 +43,4 @@ Here's a list of some of my projects:
   <a href="https://www.youtube.com/channel/UC25Fsy3m9mJ5rLBkykfUZag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
 </div>
+
