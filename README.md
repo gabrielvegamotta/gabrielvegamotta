@@ -20,8 +20,9 @@ Hello! I'm Gabriel Vega, an enthusiast for technology and with a insatiable curi
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="GV-CEmbedded" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg">
+  <img align="center" alt="GV-CEmbedded" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg">
   <img align="center" alt="GV-Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="GV-Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"">
   
 </div>
 
