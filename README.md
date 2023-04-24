@@ -1,14 +1,13 @@
 ### Hello! I'm Gabriel Vega!
 
-I am an enthusiast for technology and with a insatiable curiosity! I love designing PCB's and developing hardware projects to help as many people as possible!
+I am an enthusiast for technology and with a insatiable curiosity. I am a mechatronics engineer and electronics technician, I love designing PCB's and developing hardware projects to help as many people as possible!
 
 <img align="right" alt="GV-Logo" height="230" style="border-radius:10px;" src="https://github.com/GabrielVega-Eng/GabrielVega-Eng/blob/main/Gabriel%20Vega%20Eng.%20Logo%20and%20Name%20B%26W%20T.png">
 
-- See my full page here (under construction), and my porfolio of projects (under construction).
-- 🔭 I’m currently working on PCB Reflow
-- 🌱 I’m currently learning Ladder
+- See my full [page here](https://www.gabrielvegaeng.com/)
+- 🔭 I’m currently working on S.A.R.C. (Final Paper of my Mechatronics Engineering Course)
 - 👯 I’m looking to collaborate on PCB Designs
-- 🤔 I’m looking for help with CAD and 3D Printing
+- 🤔 I’m looking for help with 3D Printing
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I'm a writer, photographer and magician. You can check out some of [my work here!](https://gabrielvega.com.br/)
 
@@ -35,7 +34,7 @@ I am an enthusiast for technology and with a insatiable curiosity! I love design
 ##
 
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  <a href="https://www.gabrielvegaeng.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
    <a href="https://www.linkedin.com/in/gabrielvegadamotta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.v.motta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
